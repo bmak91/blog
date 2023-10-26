@@ -1,4 +1,4 @@
-const { withNextPubConfig } = require("nextpub");
+const { withNextPubConfig } = require("@bmak91/nextpub");
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {};

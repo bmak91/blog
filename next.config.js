@@ -5,5 +5,5 @@ const nextConfig = {};
 
 module.exports = withNextPubConfig(nextConfig, {
   username: "blog",
-  domain: "bassem.codes",
+  domain: "ap.bassem.codes",
 });
